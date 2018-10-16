@@ -139,6 +139,7 @@ do_auto(){
 
 # 卸载KMS服务
 do_uninstall(){
+	do_stop
 	rm -rf /usr/local/kms
 	sed -i '/vlmcsd/'d /etc/rc.local
 	echo "KMS服务 已卸载"
