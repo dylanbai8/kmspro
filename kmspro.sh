@@ -16,6 +16,7 @@ STAT=2
 # Debian系列操作系统安装KMS
 do_debian(){
 apt-get install gcc git make -y
+rm -rf /usr/local/kms
 mkdir /usr/local/kms
 cd /usr/local/kms
 git clone https://github.com/Wind4/vlmcsd.git
@@ -33,6 +34,7 @@ echo "更多教程请访问：https://v0v.bid/kms.html"
 # Centos系列操作系统安装KMS
 do_centos(){
 yum install gcc git make -y
+rm -rf /usr/local/kms
 mkdir /usr/local/kms
 cd /usr/local/kms
 git clone https://github.com/Wind4/vlmcsd.git
