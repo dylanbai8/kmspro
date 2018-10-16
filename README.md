@@ -58,3 +58,24 @@ bash k.sh status
 ```
 bash k.sh uninstall
 ```
+
+## Windows系统 自建KMS服务服务器
+
+### 一键安装KMS服务 （Windows系统 x86/x64）
+```
+访问下方地址：
+https://github.com/Wind4/vlmcsd/releases
+下载最新版本 binaries.tar.gz
+
+解压后运行：
+\binaries\Windows\intel\vlmcsd-Windows-x64.exe
+或者：
+\binaries\Windows\intel\vlmcsd-Windows-x86.exe
+```
+
+## 安卓手机自建 KMS 服务器
+```
+访问下方地址：
+https://v0v.bid/android.html
+查看教程
+```
