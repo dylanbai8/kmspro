@@ -154,5 +154,6 @@ case "$1" in
 	;;
 	*)
 	echo "缺少参数: debian | centos | start | stop | auto | restart | status | uninstall "
+	echo "更多教程请访问：https://github.com/dylanbai8/kmspro"
 	;;
 esac
