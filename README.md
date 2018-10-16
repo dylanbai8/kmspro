@@ -12,7 +12,7 @@
 
 ---
 
-## Linux系统 自建KMS服务服务器
+## Linux系统 自建KMS服务器
 
 ### 一键安装KMS服务 （Debian/Ubuntu/Mint 等）
 ```
@@ -59,7 +59,7 @@ bash k.sh status
 bash k.sh uninstall
 ```
 
-## Windows系统 自建KMS服务服务器
+## Windows系统 自建KMS服务器
 
 ### 一键安装KMS服务 （Windows系统 x86/x64）
 ```
