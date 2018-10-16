@@ -79,3 +79,13 @@ https://github.com/Wind4/vlmcsd/releases
 https://v0v.bid/android.html
 查看教程
 ```
+
+## 版权声明
+### 此项目仅为bash一键脚本，脚本内所涉及到的任何软件版权和责任归原作者所有。
+```
+此项目脚本基于以下开源项目：
+https://github.com/Wind4/vlmcsd
+https://github.com/ThunderEX/py-kms
+https://forums.mydigitallife.net/members/hotbird64.333466/
+https://forums.mydigitallife.net/members/pantagruel.5805/
+```
