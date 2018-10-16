@@ -73,7 +73,7 @@ https://github.com/Wind4/vlmcsd/releases
 \binaries\Windows\intel\vlmcsd-Windows-x86.exe
 ```
 
-## 安卓手机自建 KMS 服务器
+## 安卓手机 自建KMS服务器
 ```
 访问下方地址：
 https://v0v.bid/android.html
