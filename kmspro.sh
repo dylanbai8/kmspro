@@ -157,3 +157,5 @@ case "$1" in
 	echo "更多教程请访问：https://github.com/dylanbai8/kmspro"
 	;;
 esac
+
+# 转载请保留版权：https://v0v.bid
